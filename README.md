@@ -1,0 +1,2 @@
+# RustNote
+Rust Notes
