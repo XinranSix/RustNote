@@ -11,8 +11,16 @@
 
 # 语言核心
 
+- [类型](type/README.md)
+  - [基础类型](type/base_type/README.md)
+  - [复合类型](type/compound_type/README.md)
+    - [元组]()
+    - [结构体]()
+    - [枚举]()
 - [错误处理]()
 - [函数式编程]()
+  - [闭包]()
+  - [迭代器]()
 - [智能指针]()
 - [宏](macro/README.md)
   - [简介与编写]()
