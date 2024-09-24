@@ -1,0 +1,6 @@
+[book]
+authors = ["Yao J"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Rust Note"
